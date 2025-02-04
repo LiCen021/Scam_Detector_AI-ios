@@ -1,7 +1,7 @@
 {
   "images" : [
     {
-      "filename" : "moon-light.png",
+      "filename" : "scam_detector_ai_logo_1024x1024 1.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -13,7 +13,7 @@
           "value" : "dark"
         }
       ],
-      "filename" : "moon-dark-transparent.png",
+      "filename" : "scam_detector_ai_logo_1024x1024 3.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -25,67 +25,67 @@
           "value" : "tinted"
         }
       ],
-      "filename" : "tinted.png",
+      "filename" : "scam_detector_ai_logo_1024x1024 2.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
     },
     {
-      "filename" : "macOS16.png",
+      "filename" : "scam_detector_ai_logo_16x16.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "16x16"
     },
     {
-      "filename" : "macOS-32.png",
+      "filename" : "scam_detector_ai_logo_32x32 1.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "16x16"
     },
     {
-      "filename" : "macOS-32 1.png",
+      "filename" : "scam_detector_ai_logo_32x32.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "32x32"
     },
     {
-      "filename" : "macOS-64.png",
+      "filename" : "scam_detector_ai_logo_64x64.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "32x32"
     },
     {
-      "filename" : "macOS-128.png",
+      "filename" : "scam_detector_ai_logo_128x128.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "128x128"
     },
     {
-      "filename" : "macOS-256.png",
+      "filename" : "scam_detector_ai_logo_256x256 1.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "128x128"
     },
     {
-      "filename" : "macOS-256 1.png",
+      "filename" : "scam_detector_ai_logo_256x256.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "256x256"
     },
     {
-      "filename" : "macOS-512 1.png",
+      "filename" : "scam_detector_ai_logo_512x512.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "256x256"
     },
     {
-      "filename" : "macOS-512.png",
+      "filename" : "scam_detector_ai_logo_512x512 1.png",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "512x512"
     },
     {
-      "filename" : "macOS-1024.png",
+      "filename" : "scam_detector_ai_logo_1024x1024.png",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "512x512"

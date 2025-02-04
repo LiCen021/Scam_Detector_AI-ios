@@ -13,16 +13,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		860E9CCE2CB055B000C5BB52 /* fullmoon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fullmoon.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		860E9CCE2CB055B000C5BB52 /* Scam Detector AI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Scam Detector AI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		258729302D0785A700BB7B6F /* Exceptions for "fullmoon" folder in "fullmoon" target */ = {
+		258729302D0785A700BB7B6F /* Exceptions for "fullmoon" folder in "Scam Detector AI" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = 860E9CCD2CB055B000C5BB52 /* fullmoon */;
+			target = 860E9CCD2CB055B000C5BB52 /* Scam Detector AI */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
@@ -30,7 +30,7 @@
 		860E9CD02CB055B000C5BB52 /* fullmoon */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				258729302D0785A700BB7B6F /* Exceptions for "fullmoon" folder in "fullmoon" target */,
+				258729302D0785A700BB7B6F /* Exceptions for "fullmoon" folder in "Scam Detector AI" target */,
 			);
 			path = fullmoon;
 			sourceTree = "<group>";
@@ -63,7 +63,7 @@
 		860E9CCF2CB055B000C5BB52 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				860E9CCE2CB055B000C5BB52 /* fullmoon.app */,
+				860E9CCE2CB055B000C5BB52 /* Scam Detector AI.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -78,9 +78,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		860E9CCD2CB055B000C5BB52 /* fullmoon */ = {
+		860E9CCD2CB055B000C5BB52 /* Scam Detector AI */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 860E9CDF2CB055B100C5BB52 /* Build configuration list for PBXNativeTarget "fullmoon" */;
+			buildConfigurationList = 860E9CDF2CB055B100C5BB52 /* Build configuration list for PBXNativeTarget "Scam Detector AI" */;
 			buildPhases = (
 				860E9CCA2CB055B000C5BB52 /* Sources */,
 				860E9CCB2CB055B000C5BB52 /* Frameworks */,
@@ -93,14 +93,14 @@
 			fileSystemSynchronizedGroups = (
 				860E9CD02CB055B000C5BB52 /* fullmoon */,
 			);
-			name = fullmoon;
+			name = "Scam Detector AI";
 			packageProductDependencies = (
 				860F26A32CBC31D6004E8D40 /* MarkdownUI */,
 				869B97612D0DD46B0078DF5A /* MLXLMCommon */,
 				869B97632D0DD4D80078DF5A /* MLXLLM */,
 			);
 			productName = fullmoon;
-			productReference = 860E9CCE2CB055B000C5BB52 /* fullmoon.app */;
+			productReference = 860E9CCE2CB055B000C5BB52 /* Scam Detector AI.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -118,7 +118,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 860E9CC92CB055B000C5BB52 /* Build configuration list for PBXProject "fullmoon" */;
+			buildConfigurationList = 860E9CC92CB055B000C5BB52 /* Build configuration list for PBXProject "Scam Detector AI" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -136,7 +136,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				860E9CCD2CB055B000C5BB52 /* fullmoon */,
+				860E9CCD2CB055B000C5BB52 /* Scam Detector AI */,
 			);
 		};
 /* End PBXProject section */
@@ -285,7 +285,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 3;
 				DEVELOPMENT_ASSET_PATHS = "\"fullmoon/Preview Content\"";
-				DEVELOPMENT_TEAM = 2VT466P8NK;
+				DEVELOPMENT_TEAM = VP6R5S6P9X;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -307,7 +307,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.2;
-				PRODUCT_BUNDLE_IDENTIFIER = me.mainfra.fullmoon;
+				PRODUCT_BUNDLE_IDENTIFIER = com.licen.scamdetectorai;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = NO;
 				SDKROOT = auto;
@@ -331,7 +331,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 3;
 				DEVELOPMENT_ASSET_PATHS = "\"fullmoon/Preview Content\"";
-				DEVELOPMENT_TEAM = 2VT466P8NK;
+				DEVELOPMENT_TEAM = VP6R5S6P9X;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -353,7 +353,7 @@
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.2;
-				PRODUCT_BUNDLE_IDENTIFIER = me.mainfra.fullmoon;
+				PRODUCT_BUNDLE_IDENTIFIER = com.licen.scamdetectorai;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = NO;
 				SDKROOT = auto;
@@ -371,7 +371,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		860E9CC92CB055B000C5BB52 /* Build configuration list for PBXProject "fullmoon" */ = {
+		860E9CC92CB055B000C5BB52 /* Build configuration list for PBXProject "Scam Detector AI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				860E9CDD2CB055B100C5BB52 /* Debug */,
@@ -380,7 +380,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		860E9CDF2CB055B100C5BB52 /* Build configuration list for PBXNativeTarget "fullmoon" */ = {
+		860E9CDF2CB055B100C5BB52 /* Build configuration list for PBXNativeTarget "Scam Detector AI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				860E9CE02CB055B100C5BB52 /* Debug */,
